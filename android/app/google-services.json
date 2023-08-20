@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209986632329",
+    "project_id": "disability-noor",
+    "storage_bucket": "disability-noor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209986632329:android:6321ba50afbf4c06616458",
+        "android_client_info": {
+          "package_name": "com.example.disability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209986632329-c9a84057cqrpcf65tvr66slithfsf6o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqLAiUhaYxHyPgwqJtADYhjA8R90s83Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209986632329-c9a84057cqrpcf65tvr66slithfsf6o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
